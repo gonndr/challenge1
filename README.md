@@ -1,2 +1,3 @@
-# challenge1
-Challenge 1 - html / css
+# Frontmentor - Landing Page with 4 cards
+
+[My take](https://gonndr.github.io/challenge1/)
